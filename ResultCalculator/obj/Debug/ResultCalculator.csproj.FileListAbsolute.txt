@@ -1,0 +1,12 @@
+H:\mustafiz\ResultCalculator\ResultCalculator\bin\Debug\ResultCalculator.exe.config
+H:\mustafiz\ResultCalculator\ResultCalculator\obj\Debug\ResultCalculator.csprojResolveAssemblyReference.cache
+H:\mustafiz\ResultCalculator\ResultCalculator\obj\Debug\ResultCalculator.Properties.Resources.resources
+H:\mustafiz\ResultCalculator\ResultCalculator\obj\Debug\ResultCalculator.ResultCalculatorUI.resources
+H:\mustafiz\ResultCalculator\ResultCalculator\obj\Debug\ResultCalculator.csproj.GenerateResource.Cache
+H:\mustafiz\ResultCalculator\ResultCalculator\bin\Debug\ResultCalculator.exe
+H:\mustafiz\ResultCalculator\ResultCalculator\bin\Debug\ResultCalculator.pdb
+H:\mustafiz\ResultCalculator\ResultCalculator\obj\Debug\ResultCalculator.exe
+H:\mustafiz\ResultCalculator\ResultCalculator\obj\Debug\ResultCalculator.pdb
+E:\csharp-practice\ResultCalculator\ResultCalculator\bin\Debug\ResultCalculator.exe.config
+E:\csharp-practice\ResultCalculator\ResultCalculator\obj\Debug\ResultCalculator.exe
+E:\csharp-practice\ResultCalculator\ResultCalculator\obj\Debug\ResultCalculator.pdb
